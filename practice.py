@@ -1,4 +1,4 @@
-a  = "Hello World"
+a = "Hello World"
 b = "HELLO WORLD"
 print(a.upper())
 print(b.lower())
